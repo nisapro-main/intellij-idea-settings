@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="userId" value="13525b86:1688691bd07:-8000" />
+    <option name="version" value="3.5.0" />
+  </component>
+</application>

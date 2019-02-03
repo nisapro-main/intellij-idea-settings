@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="2b533f7c-47e0-49a4-bee7-0e1b24ed985a" name="nisapro-main">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

@@ -1,0 +1,4 @@
+<list display="RefactoringCmds">
+  <action id="MembersPullUp" />
+  <action id="MemberPushDown" />
+</list>

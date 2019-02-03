@@ -1,0 +1,21 @@
+<scheme name="NiltonColorScheme" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-01-25T14:39:21</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-25T14:41:42</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="607a3c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
